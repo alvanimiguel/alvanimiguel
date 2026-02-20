@@ -2,7 +2,6 @@
 
 [![Yahoo](https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvanimiguel@yahoo.com)
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alvanimiguel)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KowaiDev)
 [![Github](https://img.shields.io/badge/GitHub-darkblue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvanimiguel)
 
 ![Status](https://github-readme-stats-fast.vercel.app/api?username=alvanimiguel&show_icons=true&theme=tokyonight)
