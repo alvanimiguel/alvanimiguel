@@ -2,7 +2,7 @@
 
 [![Yahoo](https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvanimiguel@yahoo.com)
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alvanimiguel)
-[![Github](https://img.shields.io/badge/GitHub-darkblue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvanimiguel)
+[![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvanimiguel)
 
 ![Status](https://github-readme-stats-fast.vercel.app/api?username=alvanimiguel&show_icons=true&theme=tokyonight)
 
@@ -84,5 +84,3 @@ Desenvolvimento de ferramentas de linha de comando (Command Line Interface) para
 
 ### 📲 Bots para Telegram e WhatsApp
 Criação de bots para atendimento automatizado, notificações, integração com APIs e execução de comandos personalizados.
-
----
