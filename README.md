@@ -9,10 +9,10 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=alvanimiguel&theme=tokyonight)
 
 ## 👤 Sobre mim
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)]()
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)]()
+[![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)]()
+[![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()  
 Meu nome é **Alvani Miguel Santos de Sousa Neto**, atualmente tenho **21 anos**. Sou programador e desenvolvedor iniciante sempre buscando aprender mais. 🔥
 
 ## 🎓 Formação Acadêmica
