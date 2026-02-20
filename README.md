@@ -4,9 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alvanimiguel)
 [![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvanimiguel)
 
-![Status](https://github-readme-stats-fast.vercel.app/api?username=alvanimiguel&show_icons=true&theme=tokyonight)
+[![Status](https://github-readme-stats-fast.vercel.app/api?username=alvanimiguel&show_icons=true&theme=tokyonight)]()
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alvanimiguel&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alvanimiguel&theme=tokyonight)]()
 
 ## 👤 Sobre mim
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)]()
@@ -21,7 +21,7 @@ Meu nome é **Alvani Miguel Santos de Sousa Neto**, atualmente tenho **21 anos**
 
 **Instituição:** Estácio  
 **Nível:** Tecnólogo  
-**Status:** 📅 Conclusão prevista em Junho/2026  
+**Status:** 📅 Conclusão prevista em Julho/2026  
 
 **🌐 Redes de Computadores**  
 **Instituição:** Centro de Educação Profissional José Figueiredo Barreto  
