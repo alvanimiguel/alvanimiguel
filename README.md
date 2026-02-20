@@ -4,15 +4,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alvanimiguel)
 [![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvanimiguel)
 
-[![Status](https://github-readme-stats-fast.vercel.app/api?username=alvanimiguel&show_icons=true&theme=tokyonight)]()
+[![Status](https://github-readme-stats-fast.vercel.app/api?username=alvanimiguel&show_icons=true&theme=tokyonight)](https://github.com/alvanimiguel)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alvanimiguel&theme=tokyonight)]()
+[![GitHub Streak](https://streak-stats.demolab.com?user=alvanimiguel&theme=tokyonight)](https://github.com/alvanimiguel)
 
 ## 👤 Sobre mim
-[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)]()
-[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)]()
-[![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)]()
-[![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()  
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
+[![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/index.pt.html)
+[![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download/server)  
 Meu nome é **Alvani Miguel Santos de Sousa Neto**, atualmente tenho **21 anos**. Sou programador e desenvolvedor iniciante sempre buscando aprender mais. 🔥
 
 ## 🎓 Formação Acadêmica
@@ -49,9 +49,9 @@ Sou um cara que aprende fazendo. Curioso por natureza, gosto de explorar o mundo
 
 ## 🌐 Desenvolvimento Web
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/alvanimiguel)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://github.com/alvanimiguel)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/alvanimiguel)
 
 ### 🚀 Criação de interfaces modernas
 Websites, landing pages, dashboards e sistemas administrativos utilizando tecnologias como HTML, CSS, JavaScript e frameworks como React e Vue.js.
@@ -70,8 +70,8 @@ Criação de Single Page Applications (SPA) modernas, organizadas e performátic
 
 ## 📈 Automação e Desenvolvimento
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://nodejs.org/)
 
 ### 🐍 Scripts e aplicações
 Desenvolvimento de scripts, automações, aplicações e integrações utilizando Python e JavaScript para soluções eficientes e escaláveis.
