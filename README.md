@@ -18,7 +18,6 @@ Meu nome é **Alvani Miguel Santos de Sousa Neto**, atualmente tenho **21 anos**
 ## 🎓 Formação Acadêmica
 
 **💻 Análise e Desenvolvimento de Sistemas**
-
 **Instituição:** Estácio  
 **Nível:** Tecnólogo  
 **Status:** 📅 Conclusão prevista em Julho/2026  
