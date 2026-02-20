@@ -49,9 +49,9 @@ Sou um cara que aprende fazendo. Curioso por natureza, gosto de explorar o mundo
 
 ## 🌐 Desenvolvimento Web
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)]()
 
 ### 🚀 Criação de interfaces modernas
 Websites, landing pages, dashboards e sistemas administrativos utilizando tecnologias como HTML, CSS, JavaScript e frameworks como React e Vue.js.
@@ -70,8 +70,8 @@ Criação de Single Page Applications (SPA) modernas, organizadas e performátic
 
 ## 📈 Automação e Desenvolvimento
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)]()
 
 ### 🐍 Scripts e aplicações
 Desenvolvimento de scripts, automações, aplicações e integrações utilizando Python e JavaScript para soluções eficientes e escaláveis.
